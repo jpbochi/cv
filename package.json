@@ -4,7 +4,6 @@
   "description": "JP's CV",
   "main": "build.js",
   "scripts": {
-    "start": "node build"
   },
   "repository": {
     "type": "git",

@@ -1,5 +1,10 @@
-var markdownpdf = require("markdown-pdf");
+var markdownpdf = require('markdown-pdf');
 
-markdownpdf({ renderDelay: 3000 }).from("JP.md").to("JP.pdf", function () {
-  console.log("Done")
-})
+markdownpdf({
+  renderDelay: 2000,
+  cssPath: 'http://bootswatch.com/journal/bootstrap.min.css'
+}).from(
+  'README.md'
+).to(
+  'jpbochi.pdf', function () { console.log('pdf created'); }
+);
