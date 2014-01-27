@@ -1,8 +1,6 @@
-#### João Paulo Bochi
+### João Paulo Bochi
 
-![](https://en.gravatar.com/userimage/8503146/2b363964cf6255bf32828d20c98af6a5.png)
-
-jpbochi@gmail.com | +55 (51) 8133-8625
+![me](https://en.gravatar.com/userimage/8503146/2b363964cf6255bf32828d20c98af6a5.png) jpbochi@gmail.com | +55 (51) 8133-8625
 
 I was born in 1981 and I’m 28 years old now. I completed my graduation degree in 2004 in Computer Science at UFRGS, one of the top universities in Brazil.
 
@@ -14,7 +12,8 @@ At my free time, my favorite activities are reading (Portuguese and English), wa
 
 My latest career plan is to become a technical coding architect. Although my current work is focused is C# and corporate software, I never lost my passion for CG and AI. So I look forward to work in these areas. Also, I plan to get a post-graduation degree sometime in the future.
 
-#### Professional Experience
+### Professional Experience
+
 - Ecoplan Engª Ltda. (about 2 years - from 2000 to 2003)
 I started as a trainee, and later, as a freelancer. I enhanced a couple of internal civil engineering applications. I also improved the company’s websites (intranet and internet). I used VB 6, SQL Server, ADO, ASP, HTML, and JavaScript.
 
@@ -35,11 +34,11 @@ I continued the work I started as a contractor as Stefanini.
 The first project I worked on was a highly dependable and distributed one. It coordinated Dell’s logistics through several facilities around the globe. On 2009, I moved to Dell Financial Services (DFS). My projects ranged from customer care software to online sales.
 Since the first day, I worked with distributed teams, and cooperating with people from very different cultures (e.g. Americans, Indians, Malaysians, etc.). I worked directly with a broad array of technologies, like Oracle DB, SQL Server, VB6, C# 4.0, ASP.NET MVC, IBM MQSeries, Microsoft TFS, and others.
 
-#### Education
+### Education
 - Computer Science degree at UFRGS (from 2000 to 2004)
 My focus areas were compilers, AI, and CG. My conclusion project was a system that recreated 3D scenes from photos.
 
-#### Courses e Certifications
+### Courses e Certifications
 - Poscomp 2005
 It’s a test that is broadly used by universities in Brazil to select their post graduate students. I’ve scored 2.4 standard deviations above the average. I didn’t engage in post-graduation at the time for personal reasons.
 
@@ -52,16 +51,16 @@ It’s a test that is broadly used by universities in Brazil to select their pos
 - Microsoft Student to Business Advanced (2009 and 2010)
 A set of official MS courses were instructed to a class of high-school and undergraduate students. In 2009, I was the instructor of the Course 6464A (VS 2008: ADO.NET 3.5). In 2010, I instructed the course 6461A (VS 2008: MCF).
 
-#### Languages
+### Languages
 - English
 I have solid English skills. I studied for 3 years at ICBNA (aka Cultural). I read and write in English intensively at work and for fun (e.g., my blog). Currently, I have the luck to practice conversation daily with native English speakers. I’ve already travelled alone to US and Europe, where I’ve exercised English a lot. I intend to get a certification (TOEFL or TOEIC) when the time is ripe.
 
-#### Technological Experience Summary (not necessarily professional)
+### Technological Experience Summary (not necessarily professional)
 - C#, Javascript, Ruby, and a little Python
 - Mongo, Redis, SQL Server, Oracle
 - Git, Mercurial, SVN, TFS
 
-#### Links
+### Links
 - My linkedIn profile: http://br.linkedin.com/in/jpbochi
 - My stackoverflow user: http://stackoverflow.com/users/123897/jpbochi
 - My open-source repositories: https://github.com/jpbochi/ and https://bitbucket.org/jpbochi
