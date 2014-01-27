@@ -1,6 +1,14 @@
 ### João Paulo Bochi
 
-![me](https://en.gravatar.com/userimage/8503146/2b363964cf6255bf32828d20c98af6a5.png?size=128) jpbochi@gmail.com +55 (51) 8133-8625
+<img src="https://en.gravatar.com/userimage/8503146/2b363964cf6255bf32828d20c98af6a5.png?size=100" style="float:right;margin:10px;"></img>
+
+```
+jpbochi@gmail.com
++55 (51) 8133-8625
+lives in Porto Alegre, RS, Brazil
+born in 1981
+Brazilian
+```
 
 I was born in 1981 and I’m 28 years old now. I completed my graduation degree in 2004 in Computer Science at UFRGS, one of the top universities in Brazil.
 
