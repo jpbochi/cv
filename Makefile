@@ -4,7 +4,7 @@ install:
 	npm install
 
 clean:
-	rm *.pdf || true
+	rm jpbochi.pdf || true
 
 build:
 	node build jpbochi.pdf
