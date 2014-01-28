@@ -1,15 +1,14 @@
 ### João Paulo Bochi
 
-<img src="https://en.gravatar.com/userimage/8503146/2b363964cf6255bf32828d20c98af6a5.png?size=121" style="float:right;margin:10px;"></img>
-
-```
+<pre>
+<img src="https://en.gravatar.com/userimage/8503146/2b363964cf6255bf32828d20c98af6a5.png?size=121" style="float:right;height:10em;width:10em;"/>
 jpbochi@gmail.com
 +55 (51) 8133-8625
 graduated in 2004 in Computer Science from UFRGS
 born in 1981
 lives in Porto Alegre, RS, Brazil
 Brazilian
-```
+</pre>
 
 I consider myself a challenge-driven person. Nothing motivates me more than a hard problem to solve. I’m highly devoted to quality in every aspect of what I do. I praise knowledge, and I like to share it. I have constant interest in learning new technologies, processes, and paradigms.
 
@@ -65,7 +64,7 @@ My focus areas were compilers, AI, and CG. My conclusion project was a system th
 A set of official MS courses were instructed to a class of high-school and undergraduate students. In 2009, I was the instructor of the Course 6464A (VS 2008: ADO.NET 3.5). In 2010, I instructed the course 6461A (VS 2008: MCF).
 
 - Instructor at Rails Girls (November 2013)
-Event was hosted at ThoughtWorks Porto Alegre. I had to honor to be one of the instructors. Know more about the event at http://www.thoughtworks.com/insights/blog/rails-girls-and-thoughtworks
+Event was hosted at ThoughtWorks Porto Alegre. I had to honor to be one of the instructors. Know more about the event at [thoughtworks.com/insights/blog/rails-girls-and-thoughtworks](http://www.thoughtworks.com/insights/blog/rails-girls-and-thoughtworks)
 
 #### Languages
 - English, fluent

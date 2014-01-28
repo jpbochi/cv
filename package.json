@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "description": "JP's CV",
   "main": "build.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git@gist.github.com:8bb9e534cf5f4d0547fa.git"
@@ -12,6 +11,7 @@
   "author": "JP Bochi",
   "license": "ISC",
   "dependencies": {
-    "markdown-pdf": "~2.1.0"
+    "markdown-pdf": "~2.1.0",
+    "markdown-html": "0.0.4"
   }
 }
