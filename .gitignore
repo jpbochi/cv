@@ -3,4 +3,5 @@
 *.pdf
 *.css
 *.html
+*.zip
 node_modules/
