@@ -76,3 +76,5 @@ I have solid English skills. I studied for 3 years at ICBNA (aka Cultural). I re
 - [github](https://github.com/jpbochi)
 - [bitbucket](https://bitbucket.org/jpbochi)
 - [Rook (a hobby project)](http://rook.apphb.com)
+
+<sub><small>updated at 2014-02-12</small></sub>
