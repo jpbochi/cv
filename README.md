@@ -16,7 +16,7 @@ My programming experience started with QuickBasic in the beginning of the PC era
 
 At my free time, my favorite activities are reading (Portuguese and English), watching movies, and drinking draught beers with friends. Of course, I do some programming too. I’ve been maturing the art of developing highly reusable frameworks, even open sourcing a couple. I already contributed for [mocha](http://visionmedia.github.io/mocha/) and coauthored [ko-validation](https://github.com/racker/ko-validation/).
 
-I dream of finishing this pet project of mine. It’s an engine for abstract board games. See the largest attempt at [rook.apphb.com](http://rook.apphb.com). My ultimate career goal is to become technical guru, where I'd still code, and would give advise in development of many different projects.
+I dream of finishing this pet project of mine. It’s an engine for abstract board games. See the largest attempt at [rook.apphb.com](http://rook.apphb.com). My ultimate career goal is to become technical guru, where I'd still code, and would give advise in development of different projects.
 
 #### Skills
 
@@ -24,11 +24,13 @@ I dream of finishing this pet project of mine. It’s an engine for abstract boa
 - Multi-paradigm poliglot programming
 - Relational and non-relational databases
 - Continuous Integration and Continuous Delivery
+- Customer-driven product development
 
 #### Technical
 
-- C#, Javascript, and Ruby
+- Javascript, C#, and Ruby
 - Mongo, Redis, SQL Server, and Oracle DB
+- HTML5, LESS (pre-processed CSS), CSS3
 - Git, Mercurial, SVN, TFS
 
 #### Professional
@@ -55,6 +57,12 @@ Since the first day, I worked with distributed teams, and cooperating with peopl
 - *ThoughtWorks (since April 2011)*
 There, I learned more about software development than any other place before in my life. I got used to programming in many languages and operating systems. Agile got in my blood. CI and CD became routine. Finally, I started to feel like a full-fledged professional.
 
+I've been in 3 very distinct products there, so far. The first one was an website for teachers to author exams, all confirming to standards dictated by different states in the US. It was quite challenging frontend development.
+
+The second was ecommerce system for one of the biggest media holdings in Latin America. It included both a web store, an internal control website, many micro-services, and mobile apps for customers to read content. I helped develop all the composing parts of the system, from backend to web and mobile.
+
+The third (and current) is the customer-facing control panel of a large cloud hosting company in the US. I work almost exclusively on the browser-side of the application. Priorities are strongly driven by A/B testing, client feedback, and usage statistics.
+
 #### Education
 - Computer Science degree at UFRGS (from 2000 to 2004)
 My focus areas were compilers, AI, and CG. My conclusion project was a system that recreated 3D scenes from photos.
@@ -77,4 +85,4 @@ I have solid English skills. I studied for 3 years at ICBNA (aka Cultural). I re
 - [bitbucket](https://bitbucket.org/jpbochi)
 - [Rook (a hobby project)](http://rook.apphb.com)
 
-<sub><small>updated at 2014-02-12</small></sub>
+<sub><small>updated at March 2014</small></sub>
