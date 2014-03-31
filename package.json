@@ -11,8 +11,8 @@
   "author": "JP Bochi",
   "license": "ISC",
   "dependencies": {
-    "markdown-pdf": "~2.1.0",
+    "markdown-pdf": "~2.2.0",
     "markdown-html": "0.0.4",
-    "archiver": "~0.5.2"
+    "archiver": "~0.7.1"
   }
 }
