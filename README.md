@@ -31,6 +31,7 @@ I dream of finishing this pet project of mine. It’s an engine for abstract boa
 - Javascript, C#, and Ruby
 - Mongo, Redis, SQL Server, and Oracle DB
 - HTML5, LESS (pre-processed CSS), CSS3
+- jQuery, Knockout, Jasmine, Mocha, Node.js
 - Git, Mercurial, SVN, TFS
 
 #### Professional
