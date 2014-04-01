@@ -58,11 +58,25 @@ Since the first day, I worked with distributed teams, and cooperating with peopl
 - *ThoughtWorks (since April 2011)*
 There, I learned more about software development than any other place before in my life. I got used to programming in many languages and operating systems. Agile got in my blood. CI and CD became routine. Finally, I started to feel like a full-fledged professional.
 
-I've been in 3 very distinct products there, so far. The first one was an website for teachers to author exams, all confirming to standards dictated by different states in the US. It was quite challenging frontend development.
+I've been in 3 very distinct products there, so far. The first one was an website for teachers to author exams, all confirming to standards dictated by different states in the US. It was quite challenging frontend development. We ended up developing a custom Javascript framework for the project (it was too late to introduce an existing one when we realised we needed it).
 
-The second was ecommerce system for one of the biggest media holdings in Latin America. It included both a web store, an internal control website, many micro-services, and mobile apps for customers to read content. I helped develop all the composing parts of the system, from backend to web and mobile.
+The second was ecommerce system for one of the biggest media holdings in Latin America. It included both a web store, an internal control website, many micro-services, and mobile apps for customers to read content. I helped develop all the composing parts of the system, from backend to web and mobile. I did lots of JavaScript (with jQUery and Zepto) and Ruby. I even submitted a couple of pull requests for Zepto (which is jQuery for mobile).
 
-The third (and current) is the customer-facing control panel of a large cloud hosting company in the US. I work almost exclusively on the browser-side of the application. Priorities are strongly driven by A/B testing, client feedback, and usage statistics.
+The third (and current) is the customer-facing control panel of a large cloud hosting company in the US. I work almost exclusively on the browser-side of the application. Priorities are strongly driven by A/B testing, client feedback, and usage statistics. JavaScript is 90% of the code I write for this project.
+
+#### Extra-Professional Work / Hobby Programming
+
+- *JP Labs Blog (on hold since 2011)*
+While I was at Dell, I played a lot with C#, and maintained a personal programming blog ([JP Labs](http://jp-labs.blogspot.com.br/)). Subjects varied from mult-threading and immutability to custom C# events, dynamic coding, and even derivatives. All code is available at a [bitbucket repository](https://bitbucket.org/jpbochi/jplabscode).
+
+- *ko-validation, a [Knockout](http://knockoutjs.com/) extension*
+Along with a coworker, we created this extension to _Knockout_ for easier input custom validation. Code is available at [npmjs.org](https://www.npmjs.org/package/ko-validation]).
+
+- *halberd, a HAL library for both client and server*
+It's a library for [HAL](http://stateless.co/hal_specification.html), and JSON format with standardised hypermedia links. I started by forking and existing abandoned library and mine has increasingly more active users. Also available at [npmjs.org](https://www.npmjs.org/package/halberd).
+
+- *Duelo, a board game*
+I've been trying to rewrite this game I created as a child for many years now. I decided to start by building an engine for board-games first, because it would be more fun and more interesting. In one attempt, [Rook](http://rook.apphb.com/), I used C# and a frontend with HTML5 Canvas and jQuery. It was even worth a post at [AppHarbor's blog](http://blog.appharbor.com/2011/2/16/featured-app-rook) at the time. My latest attempt is in pure Javascript with Node.js. It's not playabled yet, as I'm still trying lots of ideas. Code is available at [my github](https://github.com/jpbochi/duelo).
 
 #### Education
 - Computer Science degree at UFRGS (from 2000 to 2004)
