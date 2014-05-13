@@ -100,4 +100,4 @@ I have solid English skills. I studied for 3 years at ICBNA (aka Cultural). I re
 - [bitbucket](https://bitbucket.org/jpbochi)
 - [Rook (a hobby project)](http://rook.apphb.com)
 
-<sub><small>updated at March 2014</small></sub>
+<sub><small>updated at April 2014</small></sub>
