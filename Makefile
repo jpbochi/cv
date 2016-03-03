@@ -1,20 +1,21 @@
-all: clean build_zip
+all: jpbochi.zip
 
-install:
-	npm install
-	[ -f swiss.css ] || wget http://jasonm23.github.io/markdown-css-themes/swiss.css
+npm-install:
+	./sh/crun-node npm install --harmony --unsafe-perm --loglevel warn
 
-clean:
-	rm jpbochi.pdf || true
-	rm jpbochi.html || true
-	rm jpbochi.zip || true
+swiss.css:
+	wget http://jasonm23.github.io/markdown-css-themes/swiss.css
 
-build_html: install
-	node ./node_modules/markdown-html/bin/markdown-html.js --style swiss.css README.md > jpbochi.html
+install: swiss.css npm-install
 
-build_pdf: install
-	node build_pdf jpbochi.pdf
+update-deps: npm-install
+	./sh/crun-node ncu --upgradeAll
 
-build_zip: build_html build_pdf
-	node build_zip
+jpbochi.html: install README.md
+	./sh/crun-node node ./node_modules/.bin/markdown-html --style swiss.css README.md > jpbochi.html
 
+jpbochi.pdf: install README.md build_pdf.js
+	./sh/crun-node node build_pdf jpbochi.pdf
+
+jpbochi.zip: jpbochi.html jpbochi.pdf build_zip.js
+	./sh/crun-node node build_zip

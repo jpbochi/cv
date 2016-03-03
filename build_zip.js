@@ -1,5 +1,4 @@
 var fs = require('fs');
-
 var archiver = require('archiver');
 
 var output = fs.createWriteStream(__dirname + '/jpbochi.zip');

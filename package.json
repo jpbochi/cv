@@ -6,13 +6,17 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git@gist.github.com:8bb9e534cf5f4d0547fa.git"
+    "url": "https://github.com/jpbochi/cv"
+  },
+  "engines": {
+    "node": "0.10.42"
   },
   "author": "JP Bochi",
   "license": "ISC",
   "dependencies": {
-    "markdown-pdf": "~2.2.0",
-    "markdown-html": "0.0.4",
-    "archiver": "~0.7.1"
+    "markdown-pdf": "~7.0.0",
+    "markdown-html": "0.0.8",
+    "archiver": "~0.21.0",
+    "npm-check-updates": "^2.5.8"
   }
 }

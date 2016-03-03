@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+
+VERSION=$(./sh/resolve-version node)
+./sh/crun "node:$VERSION" "$@"
