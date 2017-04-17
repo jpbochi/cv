@@ -14,7 +14,7 @@ I'm a challenge-driven person. Nothing motivates me more than a hard problem to 
 
 My programming experience started with QuickBasic in the beginning of the PC era when I was a child. I was using VB before I finished high school. I’ve become skilled in OO after I started learning C++. My professional experience sums to about 10 years in computer programming. For a long time, I focused on C# and .NET. At ThoughtWorks, I became a polyglot programmer, learning Ruby and proper Javascript. At SoundCloud, I do mostly Scala. I also automated part of our infrastructure using AWS, Bash, Docker, and a bit of Ansible.
 
- At my free time, I do books, movies, beer, and some eventual programming for fun. I'm fond of open source. I contributed to [mocha](http://visionmedia.github.io/mocha/), and coauthored a couple of other smaller libraries ([ko-validation](https://github.com/racker/ko-validation/) and [halberd](https://www.npmjs.com/package/halberd), for example). I helped [protonmail.com](https://protonmail.com/) set up a continuous integration pipeline.
+ At my free time, I do books, movies, beer, and some eventual programming for fun. I'm fond of open source. I contributed to [mocha](http://mochajs.org/), and coauthored a couple of other smaller libraries ([ko-validation](https://github.com/racker/ko-validation/) and [halberd](https://www.npmjs.com/package/halberd), for example). I helped [protonmail.com](https://protonmail.com/) set up a continuous integration pipeline.
 
 I don't aspire to any managerial position. I'm the technical leader of a small team at the moment. For future career development, I want to either lead larger teams or be a part of a small high-impact project where quality and time to market is crucial.
 
