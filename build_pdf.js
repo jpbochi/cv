@@ -1,8 +1,7 @@
 var markdownpdf = require('markdown-pdf');
 
 markdownpdf({
-  renderDelay: 3000,
-  cssPath: 'http://bootswatch.com/journal/bootstrap.min.css'
+  renderDelay: 3000
 }).from(
   'README.md'
 ).to(
