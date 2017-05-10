@@ -2,21 +2,20 @@
   "name": "jp_cv",
   "version": "0.0.0",
   "description": "JP's CV",
-  "main": "build.js",
   "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/jpbochi/cv"
   },
   "engines": {
-    "node": "0.10.42"
+    "node": "6"
   },
   "author": "JP Bochi",
   "license": "ISC",
   "dependencies": {
     "markdown-pdf": "~7.0.0",
     "markdown-html": "0.0.8",
-    "archiver": "~0.21.0",
-    "npm-check-updates": "^2.5.8"
+    "archiver": "~1.3.0",
+    "npm-check-updates": "^2.11.0"
   }
 }

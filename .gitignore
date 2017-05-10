@@ -1,7 +1,6 @@
 .cv
 *.swp
 *.pdf
-*.css
 *.html
 *.zip
 .DS_Store
@@ -10,3 +9,5 @@ node_modules/
 .local/
 .config/
 .cache/
+swiss.css
+drun

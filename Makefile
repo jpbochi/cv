@@ -1,21 +1,26 @@
 all: jpbochi.zip
 
-npm-install:
-	./sh/crun-node npm install --harmony --unsafe-perm --loglevel warn
+DRUN_VERSION=1.1.1
+
+drun:
+	curl -sSL "https://github.com/jpbochi/drun/archive/v${DRUN_VERSION}.tar.gz" | tar -zxf - --strip-components=1 "drun-${DRUN_VERSION}/drun"
+
+npm-install: drun
+	./drun -N npm install --loglevel warn --no-progress
 
 swiss.css:
-	wget http://jasonm23.github.io/markdown-css-themes/swiss.css
+	curl -sSL http://jasonm23.github.io/markdown-css-themes/swiss.css > swiss.css
 
-install: swiss.css npm-install
+install: npm-install
 
 update-deps: npm-install
-	./sh/crun-node ncu --upgradeAll
+	./drun -N ./node_modules/.bin/ncu --upgradeAll
 
-jpbochi.html: install README.md
-	./sh/crun-node node ./node_modules/.bin/markdown-html --style swiss.css README.md > jpbochi.html
+jpbochi.html: install swiss.css README.md
+	./drun -N node ./node_modules/.bin/markdown-html --style swiss.css README.md > jpbochi.html
 
 jpbochi.pdf: install README.md build_pdf.js
-	./sh/crun-node node build_pdf jpbochi.pdf
+	./drun -N node build_pdf jpbochi.pdf
 
 jpbochi.zip: jpbochi.html jpbochi.pdf build_zip.js
-	./sh/crun-node node build_zip
+	./drun -N node build_zip
