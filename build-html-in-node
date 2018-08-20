@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+set -eu
+
+marked --gfm --tables README.md -o jpbochi.html
+sh -c 'cat <<EOF >> jpbochi.html
+  <link rel="stylesheet" href="https://jasonm23.github.io/markdown-css-themes/swiss.css">'
