@@ -1,58 +1,54 @@
 ### João Paulo Bochi
 
 <pre>
-<img src="https://en.gravatar.com/userimage/8503146/2b363964cf6255bf32828d20c98af6a5.png?size=121" style="float:right;height:10em;width:10em;"/>
-jpbochi@gmail.com
-+55 (51) 8133-8625
-graduated in 2004 in Computer Science from UFRGS
-born in 1981
-lives in Berlin, Germany
-Brazilian
+<img src="https://s.gravatar.com/avatar/00b5af0ca354a642c252b712dc7d5883?s=121" style="float:right;height:10em;width:10em;"/>
+jpbochi@pm.me
+Bachelor’s Degree in Computer Science from UFRGS (Brazil)
+born in Brazil
+lives in Berlin, for now
 </pre>
 
 I'm a challenge-driven person. Nothing motivates me more than a hard problem to solve. I’m highly devoted to quality in every aspect of what I do. I praise knowledge, and I like to share it. I have constant interest in learning new technologies, processes, and paradigms.
 
-My programming experience started with QuickBasic in the beginning of the PC era when I was a child. I was using VB before I finished high school. I’ve become skilled in OO after I started learning C++. My professional experience sums to about 10 years in computer programming. For a long time, I focused on C# and .NET. At ThoughtWorks, I became a polyglot programmer, learning Ruby and proper Javascript. At SoundCloud, I do mostly Scala. I also automated part of our infrastructure using AWS, Bash, Docker, and a bit of Ansible.
+My programming experience started with QuickBasic in the beginning of the PC era when I was a child. I have over 13 years of professional programming experience. I wrote a lot of C# before I became a polyglot programmer. I did Ruby, Java, and Scala. Today, mostly JavaScript. In the past 5 years, I spent a lot of time automating infrastructure with AWS, Bash, Docker, Ansible, Terraform, and others. I'm passionate about CI/CD, ad tend to be the guy that pushes the team forward to enhance our test and deploy pipieline.
 
  At my free time, I do books, movies, beer, and some eventual programming for fun. I'm fond of open source. I contributed to [mocha](http://visionmedia.github.io/mocha/), and coauthored a couple of other smaller libraries ([ko-validation](https://github.com/racker/ko-validation/) and [halberd](https://www.npmjs.com/package/halberd), for example). I helped [protonmail.com](https://protonmail.com/) set up a continuous integration pipeline.
 
-I don't aspire to any managerial position. I'm the technical leader of a small team at the moment. For future career development, I want to either lead larger teams or be a part of a small high-impact project where quality and time to market is crucial.
+I don't aspire to any managerial position. I feel at home being the technical leader of projects, especially if there's time pressure. I like to search for ways where my team is slacking, and be an influencer to improve those.
 
 #### Skills and Qualifications
 
 - Full-stack poliglot software development
 - Implementing and maintaining continuous delivery pipelines
-- Javascript, C#, Ruby, Java, Scala
+- JavaScript, C#, Ruby, Java, Scala
 - AWS, Docker, Ansible
-- Mongo, Redis, MySQL, SQL Server, Oracle DB
-- Node.js, jQuery, Knockout, Jasmine, Mocha
+- DynamoDB, MongoDB, Redis, MySQL, SQL Server, Oracle DB
+- Node.js, React, Redux, Mocha, Express
 
 #### Professional Experience
 
-- *2000 to 2006, several different companies*
-Check my [linkedIn](http://br.linkedin.com/in/jpbochi) for more details.
+- *2000 to 2006, a few different companies*
+Check my [linkedIn](http://linkedin.com/in/jpbochi) for more details.
 
 - *2006 to 2011, Dell Inc.*
-I started as a contractor, and was eventually hired. I worked on wide variety of projects, from highly dependable distributed logistics server applications to front end self-updatable customer care software.
 
 Since the first day, I worked with distributed teams, and cooperating with people from very different cultures (e.g. Americans, Indians, Malaysians, etc.). I worked directly with many corporate technologies, like Oracle DB, SQL Server, VB6, C# 4.0, ASP.NET MVC, IBM MQSeries, Microsoft TFS, and others.
 
 - *2011 to 2014, ThoughtWorks*
+
 There, I became a full-fledged professional. I got used to programming in many languages and operating systems. Agile got in my blood. CI and CD became routine.
 
-I've worked for 3 very distinct products there. The first was an uniquely complex single-page web app, with capabilities to compose exams that are applied to many students across the USA. We used C#, SQL Server, and loads of JavaScript.
+I've worked for 3 very distinct products there. The first used C#, SQL Server, and loads of JavaScript. The second was ecommerce system for one of the biggest media holdings in Latin America. The architecture we designed was heavily based in micro-services written in Ruby, with data storage in MongoDB. The third was the customer-facing control panel of a large cloud hosting company in the US. The continuous delivery was amazingly efficient, especially considering the size of the team.
 
-The second was ecommerce system for one of the biggest media holdings in Latin America. The architecture we designed was heavily based in micro-services written in Ruby, with data storage in Mongo.
+- *2014 to 2016, SoundCloud*
 
-The third was the customer-facing control panel of a large cloud hosting company in the US. The continuous delivery was amazingly efficient, especially considering the size of the team.
-
-- *2014 to present, SoundCloud*
 I rewrote a system responsible for processing and storing data sent by external partners. I kept some of the original design, but built all the infrastructure automation, and integration with our continuous delivery pipeline. Last time I checked, we had 150+ TB. As the system had to be expanded with extra features, I became the informal technical leader of a small team of 4 engineers.
 
-#### Extra-Professional Work / Hobby Programming
+- *2016 to present, Rackspace*
 
-- *JP Labs Blog (abandoned since 2011)*
-While I was at Dell, I played a lot with C#, and maintained a personal programming blog ([JP Labs](http://jp-labs.blogspot.com.br/)). Subjects varied from mult-threading and immutability to custom C# events, dynamic coding, and even derivatives. All code is available at a [bitbucket repository](https://bitbucket.org/jpbochi/jplabscode).
+I help build the software behind Rackspace's Managed AWS offering. I worked with billing, logging, and alerting automation. One product I helped build from scratch sets up version-controlled infrastructure pipelines for customers using GitHub, Terraform, and CircleCI. It currently manages both AWS and GCP.
+
+#### Extra-Professional Work / Hobby Programming
 
 - *ko-validation, a [Knockout](http://knockoutjs.com/) extension*
 Along with a coworker, we created this extension to _Knockout_ for easier input custom validation. Code is available at [npmjs.org](https://www.npmjs.org/package/ko-validation]).
@@ -77,7 +73,6 @@ Event was hosted at ThoughtWorks Porto Alegre. I had the honor to be one of the 
 #### Languages
 - Portuguese, native
 - English, fluent
-I have solid English skills. I studied for 3 years at ICBNA (aka Cultural). I read and write in English intensively. I've been talking daily with native English speakers for years, and now I live in Berlin where I speak more English than anything else.
 
 #### Links
 - [linkedIn](https://www.linkedin.com/in/jpbochi) *https://www.linkedin.com/in/jpbochi*
@@ -86,4 +81,4 @@ I have solid English skills. I studied for 3 years at ICBNA (aka Cultural). I re
 - [bitbucket](https://bitbucket.org/jpbochi) *https://bitbucket.org/jpbochi*
 - [Rook (a project of mine)](http://rook.apphb.com) *http://rook.apphb.com*
 
-<sub><small>updated at March 2016</small></sub>
+<sub><small>updated in May 2019</small></sub>
