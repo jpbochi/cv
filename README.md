@@ -51,13 +51,16 @@ I help build the software behind Rackspace's Managed AWS offering. I worked with
 #### Extra-Professional Work / Hobby Programming
 
 - *ko-validation, a [Knockout](http://knockoutjs.com/) extension*
-Along with a coworker, we created this extension to _Knockout_ for easier input custom validation. Code is available at [npmjs.org](https://www.npmjs.org/package/ko-validation]).
+Along with a coworker, we created this extension to _Knockout_ for easier input custom validation. Code is available at [npmjs.org](https://www.npmjs.org/package/ko-validation).
+
+- *drun*
+It's a wrapper around docker run that will mount the current directory and a few other tricks. It's useful to run some python/node/ruby/whatever script without having to install anything locally. Code is available at https://github.com/jpbochi/drun.
 
 - *halberd, a HAL library for both client and server*
 It's a library for [HAL](http://stateless.co/hal_specification.html), and JSON format with standardised hypermedia links. I started by forking and existing abandoned library and mine has increasingly more active users. Also available at [npmjs.org](https://www.npmjs.org/package/halberd).
 
 - *Duelo, a board game*
-This is the game I've been planning to rewrite for years. I decided to start by building an engine for board-games first, because it would be fun and interesting. In one attempt, [Rook](http://rook.apphb.com/), I used C# and a frontend with HTML5 Canvas and jQuery. It was even worth a post at [AppHarbor's blog](http://blog.appharbor.com/2011/2/16/featured-app-rook) at the time. My latest attempt is in pure Javascript with Node.js. It's not playable yet, as I ended up using it as plaything to try lots of ideas. Code is available at [my github](https://github.com/jpbochi/duelo).
+This is the game I've been planning to rewrite for years. I decided to start by building an engine for board-games first, because it would be fun and interesting. In one attempt, [Rook](http://rook.apphb.com/), I used C# and a frontend with HTML5 Canvas and jQuery. It was even worth a post at [AppHarbor's blog](http://blog.appharbor.com/2011/2/16/featured-app-rook) at the time.
 
 #### Education
 - Computer Science degree at UFRGS (from 2000 to 2004)
@@ -78,7 +81,6 @@ Event was hosted at ThoughtWorks Porto Alegre. I had the honor to be one of the 
 - [linkedIn](https://www.linkedin.com/in/jpbochi) *https://www.linkedin.com/in/jpbochi*
 - [stackoverflow](http://stackoverflow.com/users/123897/jpbochi) *http://stackoverflow.com/users/123897/jpbochi*
 - [github](https://github.com/jpbochi) *https://github.com/jpbochi*
-- [bitbucket](https://bitbucket.org/jpbochi) *https://bitbucket.org/jpbochi*
 - [Rook (a project of mine)](http://rook.apphb.com) *http://rook.apphb.com*
 
 <sub><small>updated in May 2019</small></sub>
