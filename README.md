@@ -12,7 +12,7 @@ I'm a challenge-driven person. Nothing motivates me more than a hard problem to 
 
 My programming experience started with QuickBasic in the beginning of the PC era when I was a child. I have over 13 years of professional programming experience. I wrote a lot of C# before I became a polyglot programmer. I did Ruby, Java, and Scala. Today, mostly JavaScript. In the past 5 years, I spent a lot of time automating infrastructure with AWS, Bash, Docker, Ansible, Terraform, and others. I'm passionate about CI/CD, ad tend to be the guy that pushes the team forward to enhance our test and deploy pipieline.
 
- At my free time, I do books, movies, beer, and some eventual programming for fun. I'm fond of open source. I contributed to [mocha](http://visionmedia.github.io/mocha/), and coauthored a couple of other smaller libraries ([ko-validation](https://github.com/racker/ko-validation/) and [halberd](https://www.npmjs.com/package/halberd), for example). I helped [protonmail.com](https://protonmail.com/) set up a continuous integration pipeline.
+ At my free time, I do books, movies, beer, and some eventual programming for fun. I'm fond of open source. I contributed to [mocha](http://mochajs.org/), and coauthored a couple of other smaller libraries ([ko-validation](https://github.com/racker/ko-validation/) and [halberd](https://www.npmjs.com/package/halberd), for example). I helped [protonmail.com](https://protonmail.com/) set up a continuous integration pipeline.
 
 I don't aspire to any managerial position. I feel at home being the technical leader of projects, especially if there's time pressure. I like to search for ways where my team is slacking, and be an influencer to improve those.
 
