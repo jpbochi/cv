@@ -9,14 +9,14 @@ npm-install: drun package.json
 	./drun -N npm install --loglevel warn --no-progress
 
 wkhtmltox-image: wk/Dockerfile
-	docker build -t local/wkhtmltox ./wk
+	docker build -qt local/wkhtmltox ./wk
 
 install: npm-install
 
 jpbochi.html: npm-install README.md build-html-in-node
 	./drun -N -e NPM_CONFIG_LOGLEVEL= npm run build-html
 
-jpbochi.pdf: jpbochi.html
+jpbochi.pdf: jpbochi.html wkhtmltox-image
 	./drun local/wkhtmltox wkhtmltopdf --encoding utf-8 jpbochi.html jpbochi.pdf
 
 jpbochi.zip: jpbochi.html jpbochi.pdf build_zip.js
