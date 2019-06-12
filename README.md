@@ -7,6 +7,15 @@ born in Brazil
 lives in Berlin, Germany, for now
 ```
 
+- Full-stack poliglot software development
+- Implementing and maintaining CI/CD pipelines
+- JavaScript, C#, Ruby, Java, Scala
+- Node.js, React, Redux, Mocha, Express, Rails, Sinatra
+- Docker, Ansible, AWS, GCP, Azure
+- DynamoDB, MongoDB, Redis, MySQL, Cosmos DB, SQL Server, Oracle DB
+
+---
+
 I'm a challenge-driven person. Nothing motivates me more than a hard problem to solve. I’m highly devoted to quality in every aspect of what I do. I praise knowledge, and I like to share it. I have constant interest in learning new technologies, processes, and paradigms.
 
 My programming experience started with QuickBasic in the beginning of the PC era when I was a child. I have over 13 years of professional programming experience. I wrote a lot of C# before I became a polyglot programmer. I did Ruby, Java, and Scala. Today, mostly JavaScript. In the past 5 years, I spent a lot of time automating infrastructure with AWS, Bash, Docker, Ansible, Terraform, and others. I'm passionate about CI/CD, ad tend to be the guy that pushes the team forward to enhance our test and deploy pipieline.
@@ -14,15 +23,6 @@ My programming experience started with QuickBasic in the beginning of the PC era
  At my free time, I do books, movies, beer, and some eventual programming for fun. I'm fond of open source. I contributed to [mocha](http://mochajs.org/), and coauthored a couple of other smaller libraries ([ko-validation](https://github.com/racker/ko-validation/) and [halberd](https://www.npmjs.com/package/halberd), for example). I helped [protonmail.com](https://protonmail.com/) set up a continuous integration pipeline.
 
 I don't aspire to any managerial position. I feel at home being the technical leader of projects, especially if there's time pressure. I like to search for ways where my team is slacking, and be an influencer to improve those.
-
-#### Skills and Qualifications
-
-- Full-stack poliglot software development
-- Implementing and maintaining continuous delivery pipelines
-- JavaScript, C#, Ruby, Java, Scala
-- AWS, Docker, Ansible
-- DynamoDB, MongoDB, Redis, MySQL, SQL Server, Oracle DB
-- Node.js, React, Redux, Mocha, Express
 
 #### Professional Experience
 
@@ -62,8 +62,8 @@ It's a library for [HAL](http://stateless.co/hal_specification.html), and JSON f
 This is the game I've been planning to rewrite for years. I decided to start by building an engine for board-games first, because it would be fun and interesting. In one attempt, [Rook](http://rook.apphb.com/), I used C# and a frontend with HTML5 Canvas and jQuery. It was even worth a post at [AppHarbor's blog](http://blog.appharbor.com/2011/2/16/featured-app-rook) at the time.
 
 #### Education
-- Computer Science degree at UFRGS (from 2000 to 2004)
-My focus areas were AI and CG. My conclusion project was a system that recreated 3D models from photos.
+
+Computer Science degree at [UFRGS](https://en.wikipedia.org/wiki/Federal_University_of_Rio_Grande_do_Sul) (from 2000 to 2004). My focus areas were AI and CG. My conclusion project was a system that recreated 3D models from photos.
 
 #### Teaching/Coaching
 - Instructor at Microsoft Student to Business Advanced (2009 and 2010): A set of official MS courses were instructed to a class of high-school and undergraduate students. I taught VS 2008: ADO.NET 3.5 (6464A) and MCF (6461A).
@@ -84,4 +84,4 @@ My focus areas were AI and CG. My conclusion project was a system that recreated
   - [Tweaked Events](https://www.codeproject.com/Articles/108049/Tweaked-Events)
   - [Lambda Expressions and Differentiation](http://jp-labs.blogspot.com/2008/08/lambda-expressions-and-differentiation.html)
 
-<sub><small>updated in Jun 2019 - updates at https://github.com/jpbochi/cv</small></sub>
+<sub><small>updated in Jun 2019 - https://github.com/jpbochi/cv</small></sub>
