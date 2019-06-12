@@ -1,12 +1,11 @@
 ### João Paulo Bochi
 
-<pre>
-<img src="https://s.gravatar.com/avatar/00b5af0ca354a642c252b712dc7d5883?s=121" style="float:right;height:10em;width:10em;"/>
+```
 jpbochi@pm.me
 Bachelor’s Degree in Computer Science from UFRGS (Brazil)
 born in Brazil
-lives in Berlin, for now
-</pre>
+lives in Berlin, Germany, for now
+```
 
 I'm a challenge-driven person. Nothing motivates me more than a hard problem to solve. I’m highly devoted to quality in every aspect of what I do. I praise knowledge, and I like to share it. I have constant interest in learning new technologies, processes, and paradigms.
 
@@ -51,13 +50,13 @@ I help build the software behind Rackspace's Managed AWS offering. I worked with
 #### Extra-Professional Work / Hobby Programming
 
 - *ko-validation, a [Knockout](http://knockoutjs.com/) extension*
-Along with a coworker, we created this extension to _Knockout_ for easier input custom validation. Code is available at [npmjs.org](https://www.npmjs.org/package/ko-validation).
+Along with a coworker, we created this extension to _Knockout_ for easier input custom validation. Code at [npmjs.org](https://www.npmjs.org/package/ko-validation).
 
 - *drun*
-It's a wrapper around docker run that will mount the current directory and a few other tricks. It's useful to run some python/node/ruby/whatever script without having to install anything locally. Code is available at https://github.com/jpbochi/drun.
+It's a wrapper around docker run that will mount the current directory and a few other tricks. It's useful to run some python/node/ruby/whatever script without having to install anything locally. Code at https://github.com/jpbochi/drun.
 
 - *halberd, a HAL library for both client and server*
-It's a library for [HAL](http://stateless.co/hal_specification.html), and JSON format with standardised hypermedia links. I started by forking and existing abandoned library and mine has increasingly more active users. Also available at [npmjs.org](https://www.npmjs.org/package/halberd).
+It's a library for [HAL](http://stateless.co/hal_specification.html), and JSON format with standardised hypermedia links. I started by forking and existing abandoned library and mine has increasingly more active users. See [npmjs.org](https://www.npmjs.org/package/halberd).
 
 - *Duelo, a board game*
 This is the game I've been planning to rewrite for years. I decided to start by building an engine for board-games first, because it would be fun and interesting. In one attempt, [Rook](http://rook.apphb.com/), I used C# and a frontend with HTML5 Canvas and jQuery. It was even worth a post at [AppHarbor's blog](http://blog.appharbor.com/2011/2/16/featured-app-rook) at the time.
@@ -67,20 +66,22 @@ This is the game I've been planning to rewrite for years. I decided to start by 
 My focus areas were AI and CG. My conclusion project was a system that recreated 3D models from photos.
 
 #### Teaching/Coaching
-- Instructor at Microsoft Student to Business Advanced (2009 and 2010)
-A set of official MS courses were instructed to a class of high-school and undergraduate students. In 2009, I was the instructor of the Course 6464A (VS 2008: ADO.NET 3.5). In 2010, I instructed the course 6461A (VS 2008: MCF).
+- Instructor at Microsoft Student to Business Advanced (2009 and 2010): A set of official MS courses were instructed to a class of high-school and undergraduate students. I taught VS 2008: ADO.NET 3.5 (6464A) and MCF (6461A).
 
-- Instructor at Rails Girls (November 2013)
-Event was hosted at ThoughtWorks Porto Alegre. I had the honor to be one of the instructors. See more details at the [ThoughtWorks' blog](https://www.thoughtworks.com/insights/blog/rails-girls-y-thoughtworks).
+- Instructor at Rails Girls (November 2013): I was one of the instructors. Details at the [ThoughtWorks' blog](https://www.thoughtworks.com/insights/blog/rails-girls-y-thoughtworks).
 
 #### Languages
 - Portuguese, native
 - English, fluent
 
-#### Links
-- [linkedIn](https://www.linkedin.com/in/jpbochi) *https://www.linkedin.com/in/jpbochi*
-- [stackoverflow](http://stackoverflow.com/users/123897/jpbochi) *http://stackoverflow.com/users/123897/jpbochi*
-- [github](https://github.com/jpbochi) *https://github.com/jpbochi*
-- [Rook (a project of mine)](http://rook.apphb.com) *http://rook.apphb.com*
+#### Other Links
+- LinkedIn https://www.linkedin.com/in/jpbochi
+- stackoverflow: http://stackoverflow.com/users/123897/jpbochi
+- github: https://github.com/jpbochi
+- Rook (an old project of mine): http://rook.apphb.com
+- bitbucket (mostly some old C# code): https://bitbucket.org/jpbochi/jplabscode
+- Nice articles I wrote in my C# days:
+  - [Tweaked Events](https://www.codeproject.com/Articles/108049/Tweaked-Events)
+  - [Lambda Expressions and Differentiation](http://jp-labs.blogspot.com/2008/08/lambda-expressions-and-differentiation.html)
 
-<sub><small>updated in May 2019</small></sub>
+<sub><small>updated in Jun 2019 - updates at https://github.com/jpbochi/cv</small></sub>
