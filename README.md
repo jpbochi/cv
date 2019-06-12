@@ -75,11 +75,11 @@ Computer Science degree at [UFRGS](https://en.wikipedia.org/wiki/Federal_Univers
 - English, fluent
 
 #### Other Links
-- LinkedIn https://www.linkedin.com/in/jpbochi
-- stackoverflow: http://stackoverflow.com/users/123897/jpbochi
-- github: https://github.com/jpbochi
+- LinkedIn: https://www.linkedin.com/in/jpbochi
+- Stack Overflow: http://stackoverflow.com/users/123897/jpbochi
+- GitHub: https://github.com/jpbochi
 - Rook (an old project of mine): http://rook.apphb.com
-- bitbucket (mostly some old C# code): https://bitbucket.org/jpbochi/jplabscode
+- Bitbucket (mostly some old C# code): https://bitbucket.org/jpbochi/jplabscode
 - Nice articles I wrote in my C# days:
   - [Tweaked Events](https://www.codeproject.com/Articles/108049/Tweaked-Events)
   - [Lambda Expressions and Differentiation](http://jp-labs.blogspot.com/2008/08/lambda-expressions-and-differentiation.html)
