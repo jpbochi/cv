@@ -76,8 +76,8 @@ Computer Science degree at [UFRGS](https://en.wikipedia.org/wiki/Federal_Univers
 
 #### Other Links
 - LinkedIn: https://www.linkedin.com/in/jpbochi
-- Stack Overflow: http://stackoverflow.com/users/123897/jpbochi
 - GitHub: https://github.com/jpbochi
+- Stack Overflow: http://stackoverflow.com/users/123897/jpbochi
 - Rook (an old project of mine): http://rook.apphb.com
 - Bitbucket (mostly some old C# code): https://bitbucket.org/jpbochi/jplabscode
 - Nice articles I wrote in my C# days:
