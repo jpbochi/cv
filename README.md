@@ -85,6 +85,8 @@ Computer Science degree at [UFRGS](https://en.wikipedia.org/wiki/Federal_Univers
 
 In case linked pages get taken down:
 
+https://getsupport.atlassian.com/servicedesk/customer/portal/11/BBS-146784 - "All my public repos are gone. I'm looking specifically at https://bitbucket.org/jpbochi/jplabscode and https://bitbucket.org/jpbochi/rook."
+
 http://web.archive.org/web/20160909180847/https://blog.appharbor.com/2011/2/16/featured-app-rook
 http://web.archive.org/web/20150717031946/http://www.codeproject.com/Articles/108049/Tweaked-Events
 http://web.archive.org/web/20190503152210/http://jp-labs.blogspot.com/2008/08/lambda-expressions-and-differentiation.html
