@@ -25,13 +25,13 @@ I don't aspire to any managerial position. I feel at home being the technical le
 
 #### Professional Experience
 
-- *2019 to present, ProtonMail*
+- *Sep 2019 to present, ProtonMail*
 
 I'm fully assigned to help the company to have a DevOps transformation. I built from scratch a Kubernetes-based replacement for the company's QA and Staging machines. It includes automated deploys to fully isolated environments from every branch.
 
 - *2016 to 2019, Rackspace*
 
-I help build the software behind Rackspace's Managed AWS offering. I worked with billing, logging, and alerting automation. One product I helped build from scratch sets up version-controlled infrastructure pipelines for customers using GitHub, Terraform, and CircleCI. It currently manages both AWS and GCP.
+I helped build the software behind Rackspace's Managed AWS offering. I worked with billing, logging, and alerting automation. One product I helped build from scratch sets up version-controlled infrastructure pipelines for customers using GitHub, Terraform, and CircleCI. It currently manages both AWS and GCP.
 
 - *2014 to 2016, SoundCloud*
 
@@ -80,3 +80,13 @@ Computer Science degree at [UFRGS](https://en.wikipedia.org/wiki/Federal_Univers
   - [Lambda Expressions and Differentiation](http://jp-labs.blogspot.com/2008/08/lambda-expressions-and-differentiation.html)
 
 <sub><small>updated in Sep 2020 - https://github.com/jpbochi/cv</small></sub>
+
+<!--
+
+In case linked pages get taken down:
+
+http://web.archive.org/web/20160909180847/https://blog.appharbor.com/2011/2/16/featured-app-rook
+http://web.archive.org/web/20150717031946/http://www.codeproject.com/Articles/108049/Tweaked-Events
+http://web.archive.org/web/20190503152210/http://jp-labs.blogspot.com/2008/08/lambda-expressions-and-differentiation.html
+
+-->
