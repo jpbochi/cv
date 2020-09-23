@@ -10,12 +10,12 @@
     "url": "https://github.com/jpbochi/cv"
   },
   "engines": {
-    "node": "10"
+    "node": "14"
   },
   "author": "JP Bochi",
   "license": "ISC",
   "dependencies": {
-    "archiver": "^3.0.0",
-    "marked": "^0.6.2"
+    "archiver": "^5.0.2",
+    "marked": "^1.1.1"
   }
 }
