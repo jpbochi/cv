@@ -74,7 +74,7 @@ Computer Science degree at [UFRGS](https://en.wikipedia.org/wiki/Federal_Univers
 - LinkedIn: https://www.linkedin.com/in/jpbochi
 - GitHub: https://github.com/jpbochi
 - Stack Overflow: http://stackoverflow.com/users/123897/jpbochi
-<!-- - Bitbucket (mostly some old C# code): https://bitbucket.org/jpbochi/jplabscode (broken link) -->
+- Bitbucket (some ancient C# code of mine): https://bitbucket.org/jpbochi/jplabscode
 - Nice articles I wrote in my C# days:
   - [Tweaked Events](https://www.codeproject.com/Articles/108049/Tweaked-Events)
   - [Lambda Expressions and Differentiation](http://jp-labs.blogspot.com/2008/08/lambda-expressions-and-differentiation.html)
