@@ -25,7 +25,7 @@ I feel at home being the technical leader of projects, especially if there's tim
 
 #### Professional Experience
 
-- *Nov 2020 to present, OmniPresent*
+- *Nov 2020 to present, Omnipresent*
 
 I had the honor of being the second engineer in the company. While laying architectural groundwork, I took a leadership role in several engineering projects this hopeful young company executed.
 
@@ -47,11 +47,7 @@ There, I became a full-fledged professional. I got used to programming in many l
 
 I've worked for 3 very distinct products there. The first used C#, SQL Server, and loads of JavaScript. The second was ecommerce system for one of the biggest media holdings in Latin America. The architecture we designed was heavily based in micro-services written in Ruby, with data storage in MongoDB. The third was the customer-facing control panel of a large cloud hosting company in the US. The continuous delivery was amazingly efficient, especially considering the size of the team.
 
-- *2006 to 2011, Dell Inc.*
-
-From the first day, I worked with distributed teams, and cooperating with people from very different cultures (e.g. Americans, Indians, Malaysians, etc.). I worked directly with many corporate technologies, like Oracle DB, SQL Server, VB6, C# 4.0, ASP.NET MVC, IBM MQSeries, Microsoft TFS, and others.
-
-- *2000 to 2006, a few different companies*
+- *2000 to 2011, a few Brazilian companies, plus Dell Inc.*
 
 Check my [linkedIn](http://linkedin.com/in/jpbochi) for more details.
 
@@ -78,14 +74,15 @@ Computer Science degree at [UFRGS](https://en.wikipedia.org/wiki/Federal_Univers
 - LinkedIn: https://www.linkedin.com/in/jpbochi
 - GitHub: https://github.com/jpbochi
 - Stack Overflow: http://stackoverflow.com/users/123897/jpbochi
-- Bitbucket (some ancient C# code of mine): https://bitbucket.org/jpbochi/jplabscode
 - Nice articles I wrote in my C# days:
   - [Tweaked Events](https://www.codeproject.com/Articles/108049/Tweaked-Events)
   - [Lambda Expressions and Differentiation](http://jp-labs.blogspot.com/2008/08/lambda-expressions-and-differentiation.html)
 
-<sub><small>updated in Sep 2020 - https://github.com/jpbochi/cv</small></sub>
+<sub><small>updated in Jul 2021 - https://github.com/jpbochi/cv#readme</small></sub>
 
 <!--
+
+- Bitbucket (some ancient C# code of mine): https://bitbucket.org/jpbochi/jplabscode
 
 In case linked pages get taken down:
 
