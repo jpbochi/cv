@@ -17,9 +17,9 @@ lives in Prague, Czechia
 
 I'm a challenge-driven person. Nothing motivates me more than a hard problem to solve. I’m highly devoted to quality in every aspect of what I do. I praise knowledge, and I like to share it. I have constant interest in learning new technologies, processes, and paradigms.
 
-I started coding early in the 90s, with QuickBasic. I graduated in CS in 2004. Today, I have a decade and a half of professional programming experience. I wrote a lot of C# before I became a polyglot programmer writing Ruby, Java, Scala, and JavaScript (my current favourite). In the past ~6 years, I spent a lot of time automating infrastructure with AWS, Bash, Docker, Ansible, Terraform, Kubernetes, and others. I'm passionate about CI/CD, and tend to be the guy that pushes the team forward to enhance our test and deploy pipieline.
+I started coding early in the 90s, with QuickBasic. I graduated in CS in 2004. Today, I have a decade and a half of professional programming experience. I wrote a lot of C# before I became a polyglot programmer writing Ruby, Java, Scala, and JavaScript (my current favorite). In the past ~6 years, I spent a lot of time automating infrastructure with AWS, Bash, Docker, Ansible, Terraform, Kubernetes, and others. I'm passionate about CI/CD, and tend to be the guy that pushes the team forward to enhance our test and deploy pipeline.
 
-In my free time, I do books, movies, beer, 3D printing, and some eventual programming for fun. I'm fond of open source, and made conrtibutions of my own. In 2015, I helped [protonmail.com](https://protonmail.com/) set up their early CI pipeline for their open source web UI. 5 years later, I ended working for them.
+In my free time, I do books, movies, beer, 3D printing, and some eventual programming for fun. I'm fond of open source, and made contributions of my own. In 2015, I helped [protonmail.com](https://protonmail.com/) set up their early CI pipeline for their open source web UI. 5 years later, I ended working for them.
 
 I feel at home being the technical leader of projects, especially if there's time pressure. I like to search for ways where my team can get better, and be an influencer to improve those. That _leadership role_ is that one excel at, and is the one I search for. I do not aspire to have any managerial position. Nothing against managers, it's just not for me.
 
