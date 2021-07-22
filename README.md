@@ -21,11 +21,15 @@ I started coding early in the 90s, with QuickBasic. I graduated in CS in 2004. T
 
 In my free time, I do books, movies, beer, 3D printing, and some eventual programming for fun. I'm fond of open source, and made conrtibutions of my own. In 2015, I helped [protonmail.com](https://protonmail.com/) set up their early CI pipeline for their open source web UI. 5 years later, I ended working for them.
 
-I don't aspire to any managerial position. I feel at home being the technical leader of projects, especially if there's time pressure. I like to search for ways where my team is slacking, and be an influencer to improve those.
+I feel at home being the technical leader of projects, especially if there's time pressure. I like to search for ways where my team can get better, and be an influencer to improve those. That _leadership role_ is that one excel at, and is the one I search for. I do not aspire to have any managerial position. Nothing against managers, it's just not for me.
 
 #### Professional Experience
 
-- *Sep 2019 to present, ProtonMail*
+- *Nov 2020 to present, OmniPresent*
+
+I had the honor of being the second engineer in the company. While laying architectural groundwork, I took a leadership role in several engineering projects this hopeful young company executed.
+
+- *Sep 2019 to Nov 2020, ProtonMail*
 
 I'm fully assigned to help the company to have a DevOps transformation. I built from scratch a Kubernetes-based replacement for the company's QA and Staging machines. It includes automated deploys to fully isolated environments from every branch.
 
