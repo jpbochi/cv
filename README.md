@@ -25,29 +25,29 @@ I feel at home being the technical leader of projects, especially if there's tim
 
 #### Professional Experience
 
-- *Nov 2020 to present, Omnipresent*
+- *Nov 2020 to present, [Omnipresent](https://www.omnipresent.com/about-us)*
 
 I had the honor of being the second engineer in the company. While laying architectural groundwork, I took a leadership role in several engineering projects this hopeful young company executed.
 
-- *Sep 2019 to Nov 2020, ProtonMail*
+- *Sep 2019 to Nov 2020, [ProtonMail](https://protonmail.com/about)*
 
 I'm fully assigned to help the company to have a DevOps transformation. I built from scratch a Kubernetes-based replacement for the company's QA and Staging machines. It includes automated deploys to fully isolated environments from every branch.
 
-- *2016 to 2019, Rackspace*
+- *2016 to 2019, [Rackspace](https://www.rackspace.com/about)*
 
 I helped build the software behind Rackspace's Managed AWS offering. I worked with billing, logging, and alerting automation. One product I helped build from scratch sets up version-controlled infrastructure pipelines for customers using GitHub, Terraform, and CircleCI. It currently manages both AWS and GCP.
 
-- *2014 to 2016, SoundCloud*
+- *2014 to 2016, [SoundCloud](https://soundcloud.com/pages/contact)*
 
 I rewrote a system responsible for processing and storing data sent by external partners. I kept some of the original design, but built all the infrastructure automation, and integration with our continuous delivery pipeline. Last time I checked, we had 150+ TB. As the system had to be expanded with extra features, I became the informal technical leader of a small team of 4 engineers.
 
-- *2011 to 2014, ThoughtWorks*
+- *2011 to 2014, [ThoughtWorks](https://www.thoughtworks.com/about-us)*
 
 There, I became a full-fledged professional. I got used to programming in many languages and operating systems. Agile got in my blood. CI and CD became routine.
 
 I've worked for 3 very distinct products there. The first used C#, SQL Server, and loads of JavaScript. The second was ecommerce system for one of the biggest media holdings in Latin America. The architecture we designed was heavily based in micro-services written in Ruby, with data storage in MongoDB. The third was the customer-facing control panel of a large cloud hosting company in the US. The continuous delivery was amazingly efficient, especially considering the size of the team.
 
-- *2000 to 2011, a few Brazilian companies, plus Dell Inc.*
+- *2000 to 2011, a few Brazilian companies, plus [Dell](https://www.dell.com/learn/us/en/04/about-us)*
 
 Check my [linkedIn](http://linkedin.com/in/jpbochi) for more details.
 
