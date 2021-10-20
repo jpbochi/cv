@@ -21,7 +21,7 @@ I'm motivated by **hard problems** and **smart people**. I have a constant need 
 
 I got my CS degree in 2004, but started my professional software experience earlier than that. My initial focus was C# and .NET, and later became a polyglot programmer writing Ruby, Java, Scala, Python, and JavaScript (my current favorite). I have a strong experience with infrastructure with AWS, Docker, Terraform, Ansible, Kubernetes, and others. I'm passionate about CI/CD, and tend to be the guy that pushes the team forward to enhance our test and deploy pipeline.
 
-I live with my wife and son in Prague. In my free time, I enjoy my family, books, movies, beer, and some eventual programming for fun. I'm fond of open source, and made contributions of my own. For example, in 2015, I helped [protonmail.com](https://protonmail.com/) set up their early CI pipeline for their open source web UI. 5 years later, I ended up working for them.
+I live with my wife, my son, and my pet hedgehog in Prague. In my free time, I enjoy my family, books, movies, beer, and some eventual programming for fun. I'm fond of open source, and made contributions of my own. For example, in 2015, I helped [protonmail.com](https://protonmail.com/) set up their early CI pipeline for their open source web UI. 5 years later, I ended up working for them.
 
 ## Professional Experience
 
