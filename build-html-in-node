@@ -3,4 +3,24 @@ set -eu
 
 marked --gfm --tables README.md -o jpbochi.html
 sh -c 'cat <<EOF >> jpbochi.html
-  <link rel="stylesheet" href="https://jasonm23.github.io/markdown-css-themes/swiss.css">'
+  <link rel="stylesheet" href="https://jasonm23.github.io/markdown-css-themes/avenir-white.css">
+  <style type="text/css">
+    @page {
+      size: 210mm 297mm;
+    }
+    body {
+      max-width: 44em;
+    }
+    blockquote {
+      margin-left: 1em;
+      padding-left: 1em;
+      border-left: 1px solid #ddd;
+    }
+    pre {
+      border: 0;
+    }
+    pre, code {
+      background-color: white;
+    }
+  </style>
+'

@@ -1,4 +1,4 @@
-all: jpbochi.zip
+all: jpbochi.pdf
 
 DRUN_VERSION=2.1.0
 
