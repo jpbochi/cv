@@ -81,7 +81,6 @@ Computer Science degree at [UFRGS](https://en.wikipedia.org/wiki/Federal_Univers
 <sub><small>updated in Oct 2021 - https://github.com/jpbochi/cv#readme</small></sub>
 
 <!--
-
 - Bitbucket (some ancient C# code of mine): https://bitbucket.org/jpbochi/jplabscode
 
 In case linked pages get taken down:
@@ -91,5 +90,4 @@ https://getsupport.atlassian.com/servicedesk/customer/portal/11/BBS-146784 - "Al
 http://web.archive.org/web/20160909180847/https://blog.appharbor.com/2011/2/16/featured-app-rook
 http://web.archive.org/web/20150717031946/http://www.codeproject.com/Articles/108049/Tweaked-Events
 http://web.archive.org/web/20190503152210/http://jp-labs.blogspot.com/2008/08/lambda-expressions-and-differentiation.html
-
 -->
