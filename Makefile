@@ -6,7 +6,7 @@ drun:
 	curl -sSL "https://github.com/jpbochi/drun/archive/v${DRUN_VERSION}.tar.gz" | tar -zxf - --strip-components=1 "drun-${DRUN_VERSION}/drun"
 
 npm-install: drun package.json
-	./drun -NM alpine3.14 npm install --loglevel warn --no-progress
+	./drun -NM alpine3.17 npm install --loglevel warn --no-progress
 
 wkhtmltox-image: wk/Dockerfile
 	docker build -qt local/wkhtmltox ./wk
